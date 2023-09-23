@@ -3,7 +3,9 @@ y = eval(input("Enter the second number: "))
 
 sum = x+y
 dif = x-y
+pro = x*y
 
 print("This is a calc")
 print("SUM: ", sum)
 print("DIFFERENCE: ", dif)
+print("PROUCT: ", pro)
